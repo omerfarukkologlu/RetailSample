@@ -29,9 +29,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4CE9BD40-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.UnitTest", "test\Customer.UnitTest\Customer.UnitTest.csproj", "{A8D0A563-4C7E-416F-A006-0D74A6B4AA28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice.Core", "src\Service\Invoice\Invoice.Core\Invoice.Core.csproj", "{26BCE65F-8EF0-4F61-80CB-FE32EF6CD664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invoice.Core", "src\Service\Invoice\Invoice.Core\Invoice.Core.csproj", "{26BCE65F-8EF0-4F61-80CB-FE32EF6CD664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice.UnitTest", "test\Invoice.UnitTest\Invoice.UnitTest.csproj", "{75182CC6-421F-4AE5-AF86-32A88FD85DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invoice.UnitTest", "test\Invoice.UnitTest\Invoice.UnitTest.csproj", "{75182CC6-421F-4AE5-AF86-32A88FD85DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "diagram", "diagram", "{2CC86F06-D8B3-4CD9-850A-4F513E7C32F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
