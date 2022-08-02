@@ -81,6 +81,8 @@ Invoice Model Diagram
 ## Test Results
 ![Test Results](https://github.com/omerfarukkologlu/RetailSample/raw/main/diagram/Test_Results.png)
 
+You can use "Run Tests" options in Visual Studio.
+
 ## Postman Collection
 
 Download the postman collection from [here](https://www.getpostman.com/collections/215426f0cbb9bbd736da) to run the api endpoints through gateway
